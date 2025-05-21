@@ -82,7 +82,7 @@ I’m all about sharing the love in the tech community! Here’s how I contribut
 <p align="center">
   <img src="https://img.shields.io/npm/dt/@th3hero/input-validator?label=NPM%20Downloads&style=flat&logo=npm" alt="React/Next Validator" />
   <img src="https://img.shields.io/npm/dt/@th3hero/request-validator?label=NPM%20Downloads&style=flat&logo=npm" alt="Request Validator" />
-  <img src="https://img.shields.io/npm/dt/@th3hero/countries-region?label=NPM%20Downloads&style=flat&logo=npm" alt="Countries &amp; Regions" />
+  <img src="https://img.shields.io/npm/dt/countries-region?label=NPM%20Downloads&style=flat&logo=npm" alt="Countries &amp; Regions" />
   <img src="https://img.shields.io/github/stars/th3hero?label=GitHub%20Stars&style=flat&logo=github" alt="GitHub Stars" />
 </p>
 
