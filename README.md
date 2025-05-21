@@ -80,7 +80,7 @@ I’m all about sharing the love in the tech community! Here’s how I contribut
 - 🤝 **Worldwide Collabs**: Team up with devs globally to make TypeScript APIs and React components shine.
 
 <p align="center">
-  <img src="https://img.shields.io/npm/dt/@th3hero/form-validation?label=NPM%20Downloads&style=flat&logo=npm" alt="NPM Downloads" />
+  <img src="https://img.shields.io/npm/dt/@th3hero/input-validator?label=NPM%20Downloads&style=flat&logo=npm" alt="NPM Downloads" />
   <img src="https://img.shields.io/github/stars/th3hero?label=GitHub%20Stars&style=flat&logo=github" alt="GitHub Stars" />
 </p>
 
