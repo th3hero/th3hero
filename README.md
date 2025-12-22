@@ -1,142 +1,289 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20My%20Code%20Playground-FF5733?style=for-the-badge&logo=github" alt="Welcome" />
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hey There, I'm Alok Kumar! 🚀</h1>
-<p align="center">
-  <a href="https://github.com/th3hero">th3hero</a> | Full Stack Developer | Open Source Lover | Coffee-Fueled Coder ☕
-</p>
+# 👋 Hi, I'm Alok
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thealokkumarsingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.npmjs.com/~th3hero"><img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM" /></a>
-  <a href="mailto:thealokkumarsingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### Technical Lead | AI/ML Engineer | Open Source Contributor
 
-## 🌈 Who Am I?
+[![GitHub followers](https://img.shields.io/github/followers/th3hero?style=for-the-badge&logo=github&color=181717)](https://github.com/th3hero)
+[![npm](https://img.shields.io/npm/v/@th3hero/input-validator?style=for-the-badge&logo=npm&color=CB3837)](https://www.npmjs.com/~th3hero)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-Hey, I’m Alok, aka **th3hero**, a full stack developer who’s been building cool stuff on the web for **over 5 years**! I live for turning ideas into sleek, scalable apps using **Node.js**, **React**, **Next.js**, and **PostgreSQL**. Whether it’s crafting APIs that scream performance (think **30% faster** builds) or frontends that handle **100K+ users** with **99.9% uptime**, I’m all about making tech work *magic*.
+</div>
 
-I’m also a huge open source nerd, sharing **5+ NPM packages** (with **10K+ downloads**!) and tinkering on **10+ Node.js/React projects**. Right now, I’m leading a team at [ViaCation](https://viacation.com), building a travel platform that’s changing the game. When I’m not coding, I’m mentoring devs, hosting workshops, or dreaming up the next big app idea over a cup of coffee. Ready to dive into my world? Let’s go! ✨
+---
 
-## 🎓 My Roots
+## 🚀 About Me
 
-I earned my **Bachelor of Computer Applications** from J S University (2019–2022), where I built a full-stack e-commerce platform with **Node.js**, **React**, and **PostgreSQL**—and graduated with distinction! That’s where my love for coding took off.
+I'm a **Technical Lead** passionate about building **enterprise-grade AI platforms** and **scalable backend architectures**. With **4.5+ years** of professional experience, I've progressed from building foundational systems to leading teams that deliver production-grade solutions.
 
-## 🛠️ What I Wield
+**What drives me:**
+- 🤖 **Generative AI & RAG Pipelines** - Building production-ready LLM orchestration systems
+- 🏗️ **Enterprise Architecture** - Designing multi-tenant, compliance-first platforms
+- 🔒 **AI Safety & Compliance** - Implementing HIPAA/GDPR/SOC2 controls for regulated industries
+- ⚡ **High-Performance Systems** - Scaling platforms to handle millions of operations
 
-Here’s my tech toolbox, packed with everything I use to build awesome apps:
+I lead engineering teams to deliver **production systems** that serve **100+ enterprise clients** with **99.95%+ uptime** across multi-region deployments.
 
-- **Frontend**: ⚛️ React, 📄 Next.js, 📜 JavaScript, 🛡️ TypeScript  
-- **Backend**: 🟢 Node.js, 🦺 NestJS, 🌐 Express.js, 🐘 PHP (Laravel), 🐹 Go, 🐍 Python  
-- **APIs**: 🔗 GraphQL, 🌐 RESTful APIs  
-- **Databases**: 🗄️ PostgreSQL, 🍃 MongoDB, 🗃️ MySQL, 📚 DocumentDB, 🔗 Prisma, 🔄 Sequelize  
-- **DevOps/Cloud**: ☁️ AWS (EC2, S3, Lambda, RDS), 🐳 Docker, ⚙️ CI/CD, 📊 GitHub Actions, 🛠️ Bitbucket Pipelines, 📋 Jira  
-- **Extras**: 🌍 Hasura, ⛓️ Web3.js, 📈 Agile/Scrum  
+---
 
-It’s like a Swiss Army knife for coding—there’s a tool for every challenge!
+## 🛠️ Tech Stack
 
-## 🚀 Stuff I’ve Built
+<div align="center">
 
-Here’s a peek at some of the projects I’ve poured my heart into:
+### 💻 Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🌍 [ViaCation Tourism Platform](https://viacation.com) *(In Development)*
-A global travel hub for **50K+ tours**!  
-**Tech Stack**: Node.js, React, Next.js, PostgreSQL, TypeScript, GraphQL, AWS  
-- Whipped up secure APIs and a slick frontend for **10K+ users** to book trips.  
-- Designed rock-solid database schemas and slashed **15% off cloud costs** with AWS optimizations.  
-- Led my team to weave in TypeScript and GraphQL for a super scalable app.
+### 🤖 AI/ML & Data
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-412991?style=for-the-badge&logo=llamaindex&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-430098?style=for-the-badge&logo=pinecone&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### 🔒 LockLife *(Private Deployment)*
-A fortress for identity protection with real-time alerts.  
-**Tech Stack**: Node.js, React, PostgreSQL, TypeScript  
-- Built APIs and dashboards to keep **1K+ users** safe.  
-- Sliced **20% off response times** with PostgreSQL query magic.  
-- Brought TypeScript into the mix for bulletproof code.
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### ⛓️ [MyDigitalWorld (BNB Chain)](https://app.mydigitalvault.net)
-A blockchain vault for storing certificates securely.  
-**Tech Stack**: Laravel, Web3.js, PostgreSQL, TypeScript, JavaScript  
-- Engineered a backend with blockchain wallet integrations.  
-- Managed a database for **5K+ certificates**, locked tight with TypeScript validation.
+</div>
 
-### 🏠 [PodsLiving](https://www.podsliving.ca)
-A rental platform making housing a breeze.  
-**Tech Stack**: Laravel, JavaScript, PostgreSQL  
-- Crafted APIs for secure property bookings.  
-- Sped up database queries by **20%** for a smoother user experience.
+---
 
-### 🛍️ [Eideal](https://eideal.com)
-A cosmetic marketplace that’s all about style.  
-**Tech Stack**: Laravel, JavaScript, MySQL  
-- Built a RESTful backend to handle orders and inventory like a pro.
+## 🗺️ Professional Journey
 
-## 🌍 Giving Back to Open Source
+### 🎯 Technical Lead | Enterprise AI Platform
+**2024 - Present**
 
-I’m all about sharing the love in the tech community! Here’s how I contribute:
+Leading architecture and engineering for enterprise generative AI platform serving regulated industries:
+- 🏗️ Owned end-to-end architecture for multi-tenant RAG platform with 10M+ vector workloads
+- 🤖 Unified 9+ AI providers (OpenAI, Anthropic, Google, Cohere) with intelligent routing - **40% cost reduction**
+- 🔒 Delivered compliance framework: GDPR/HIPAA/SOC2 controls with real-time PII detection
+- 📊 Scaled multi-region infrastructure (US/EU/APAC) to **200ms latency** with **99.95% uptime**
+- 👥 Leading **6-engineer team** with **90% automated test coverage**
 
-- 📦 **5+ NPM Packages**: Dropped JavaScript/TypeScript goodies (like form validation, encryption, React utilities) that have racked up **10K+ downloads** and power **100+ projects**. Check them out on [NPM](https://www.npmjs.com/~th3hero)!  
-- 🐙 **10+ GitHub Projects**: Fixed bugs and boosted performance in Node.js and React repos, including frameworks like Express.js.  
-- 🤝 **Worldwide Collabs**: Team up with devs globally to make TypeScript APIs and React components shine.
+**Key Projects:**
+- HIPAA-compliant mental health copilot processing **5K+ daily assessments**
+- Streaming PII detection system: **99.8% precision** across 10K+ monthly conversations
+- Multi-provider LLM orchestration with domain embeddings achieving **95% answer relevance**
 
-<p align="center">
-  <img src="https://img.shields.io/npm/dt/@th3hero/input-validator?label=React/Next%20Validator&style=flat&logo=npm" alt="React/Next Validator" />
-  <img src="https://img.shields.io/npm/dt/@th3hero/request-validator?label=Request%20Validator&style=flat&logo=npm" alt="Request Validator" />
-  <img src="https://img.shields.io/npm/dt/countries-region?label=Countres%20Regions&style=flat&logo=npm" alt="Countries &amp; Regions" />
-  <img src="https://img.shields.io/github/stars/th3hero?label=GitHub%20Stars&style=flat&logo=github" alt="GitHub Stars" />
-</p>
+---
 
-## 💼 My Journey
+### 🚀 Senior Product Engineer / Team Lead | Travel Commerce Platform
+**2024**
 
-I’ve been lucky to work on some amazing teams. Here’s a quick rundown:
+Owned microservices architecture for global travel marketplace:
+- 🏗️ Led microservices delivery for booking, catalog, and payments supporting **50K+ tours**
+- 🎯 Delivered recommendation engine: **18% conversion lift** through behavioral personalization
+- ⚡ Automated creative refresh pipeline: **60% reduction** in manual curation
+- 📈 Defined CI/CD practices: **99.9% uptime** for customer-facing services during peak seasons
+- 📊 Built analytics pipeline enabling faster merchandising decisions
 
-- **Senior Product Engineer/Team Lead** @ [ViaCation](https://viacation.com) *(Feb 2024–Present, Gurugram)*  
-  Leading a crew of 4+ devs, building a travel platform with Node.js and React, cutting build times by **30%** and cloud costs by **15%**.
+---
 
-- **Senior Software Engineer/Team Lead** @ Revinfotech *(Apr 2023–Feb 2024, Gurugram)*  
-  Built fintech APIs with Node.js and React for **100K+ users**, hitting **99.9% uptime** and mentoring the team to nail **95% on-time delivery**.
+### 💼 Senior Software Engineer / Team Lead | FinTech Platform
+**2022 - 2024**
 
-- **Software Engineer** @ Revinfotech *(Apr 2022–Apr 2023, Gurugram)*  
-  Cooked up secure Node.js APIs, boosted security by **40%**, and cut latency by **25%** with React and PostgreSQL.
+Owned investor intelligence and fraud detection systems:
+- 📊 Built investor intelligence platform: **40% reduction** in analyst prep time
+- 🔒 Delivered fraud detection system protecting **$2M+ monthly payment volume**
+- ⛓️ Built blockchain credentialing service with auditable trails
+- 📈 Scaled data pipelines: processed **15M+ monthly transactions** with near-real-time reconciliation
+- 🔐 Defined security framework: SOC2-aligned checklists and encryption policies
+- 👥 Led **4-engineer team**: established test strategy achieving **85% automated coverage**
 
-- **Software Developer** @ Global Design India *(Oct 2019–Feb 2022, Delhi)*  
-  Sped up Laravel and Node.js APIs by **20%** and guided new devs through Agile workflows.
+---
 
-## 🤝 Community Vibes
+### 🌱 Software Engineer | Enterprise Services
+**2021 - 2022**
 
-I love helping the tech world grow! Here’s how I pitch in:
+Built foundational systems and APIs:
+- 🔌 Delivered RESTful APIs powering **100K+ creative asset updates daily**
+- 🔐 Built reusable authentication and entitlement layers
+- 🎨 Partnered with design teams to roll out **15+ client experiences**
+- 🧪 Developed automated testing scripts and monitoring dashboards
+- 🐳 Coordinated DevOps to containerize legacy services
 
-- 🧑‍🏫 Lead **4–6 devs** in sprints, boosting delivery times by **20%** with Jira.  
-- 🎤 Host workshops on **Node.js**, **React**, and **DevOps** for 10+ devs, sharing best practices.  
-- 👨‍🏫 Mentored **5+ new hires**, getting them up to speed on React and Node.js.  
-- 🌍 Collaborate globally on open source, making APIs and components better for everyone.
+---
 
-## 📊 My GitHub Pulse
+### 🚀 Entrepreneurial Journey
+**2019 - 2022**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=th3hero&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th3hero&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Founded and led a technology startup, gaining hands-on experience in:
+- Full-stack product development
+- Business strategy and client acquisition
+- Team building and project management
+- Financial planning and resource optimization
 
-## 🔥 What Drives Me
+*Transitioned to corporate roles to deepen technical expertise in enterprise-scale systems.*
 
-- **Favorite Stack**: Node.js + React = pure magic for building fast, scalable apps!  
-- **Fun Fact**: I’ve mentored **5+ devs** and debugged code at 2 AM with coffee as my co-pilot. When I’m not coding, I’m sketching out app ideas or geeking out over new tech.  
-- **Why I Code**: To turn ideas into reality and make life easier, one line at a time.
+---
 
-> *"Code is my canvas, and every app is a story waiting to be told."* – Alok Kumar
+## 📦 Open Source Contributions
 
-## 📬 Let’s Connect!
+<div align="center">
 
-Got an idea for a project? Want to geek out over code? Hit me up!  
+**Maintaining TypeScript AI tooling packages with 2K+ weekly downloads** 📈
 
-<p align="center">
-  <a href="mailto:thealokkumarsingh@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/thealokkumarsingh">🔗 LinkedIn</a> •
-  <a href="https://github.com/th3hero">🐙 GitHub</a> •
-  <a href="https://www.npmjs.com/~th3hero">📦 NPM</a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Let%27s%20Code%20Something%20Epic-FF5733?style=for-the-badge" alt="Let's Code" />
-</p>
+I build and maintain open-source tools that help developers build safer, more efficient AI applications:
+
+| Package | Purpose | Impact |
+|---------|---------|--------|
+| 🔐 **Input Validators** | Preventing injection attacks in AI applications | Security-first validation |
+| 🔍 **Embedding Utilities** | Semantic search and vector operations | Optimized RAG pipelines |
+| ✅ **Evaluation Harnesses** | LLM quality checks and testing frameworks | Quality assurance |
+| 🔄 **Multi-Provider Routing** | LangChain adapters for AI orchestration | Cost optimization |
+| 💬 **React Components** | Generative UI components for chat interfaces | Better UX |
+
+**🌐 Check out my packages:** [npmjs.com/~th3hero](https://www.npmjs.com/~th3hero)
+
+**🌟 Adopted by 1K+ developers** across various AI/ML projects
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+**Building the next generation of enterprise AI infrastructure** 🚀
+
+</div>
+
+- 🏢 **Enterprise AI Platforms** - Serving regulated industries with compliance-first architecture
+- 🧠 **RAG Pipelines** - Multi-provider LLM orchestration with intelligent routing
+- 🔒 **Compliance & Security** - HIPAA/GDPR/SOC2 controls for healthcare and finance
+- 📊 **Data Engineering** - Scaling pipelines processing millions of transactions
+- 👥 **Team Leadership** - Mentoring engineers and establishing best practices
+- 🌱 **Open Source** - Contributing to the AI/ML developer ecosystem
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3hero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th3hero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=th3hero&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=th3hero&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF)
+
+</div>
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| Achievement | Impact |
+|------------|--------|
+| 🏅 **Spotlight Winner** | Recognized for launching compliance-first AI infrastructure serving 100+ enterprise clients |
+| 📦 **5+ Published Packages** | TypeScript AI tooling with 2K+ weekly downloads |
+| 🌟 **1K+ Developers** | Using my open source contributions in production |
+| 💡 **Technical Speaker** | RAG evaluation frameworks & responsible AI guardrails |
+| 🎓 **Infrastructure Modernization** | Brownfield-to-microservices migration reducing cloud spend by 35% |
+| ⚡ **Cost Optimization** | Reduced AI inference costs by 40% through intelligent routing |
+| 🔒 **Compliance Excellence** | 99.8% precision in PII detection across 10K+ monthly conversations |
+
+</div>
+
+---
+
+## 💼 Core Expertise
+
+<div align="center">
+
+### 🎯 Specialized Domains
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML Engineering
+- RAG (Retrieval-Augmented Generation) pipelines
+- Multi-provider LLM orchestration
+- Vector databases & semantic search
+- Prompt engineering & optimization
+- AI safety & guardrail design
+- Evaluation frameworks
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Enterprise Architecture
+- Multi-tenant SaaS platforms
+- Microservices architecture
+- Event-driven systems
+- API design & GraphQL
+- Real-time streaming pipelines
+- Scalable data models
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 Compliance & Security
+- HIPAA/GDPR/SOC2 implementation
+- PII/PHI detection & redaction
+- Audit trails & monitoring
+- Security frameworks
+- Policy enforcement
+- Risk assessment
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ DevOps & Infrastructure
+- Multi-region deployments
+- Kubernetes orchestration
+- Infrastructure as Code
+- CI/CD pipelines
+- Observability & monitoring
+- Cost optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/th3hero)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~th3hero)
+
+</div>
+
+---
+
+<div align="center">
+
+**Building the future of enterprise AI, one commit at a time** 🚀
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=th3hero.th3hero&left_color=58A6FF&right_color=58A6FF)
+
+</div>
+
