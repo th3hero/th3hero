@@ -19,7 +19,7 @@
 
 6+ years shipping production systems. Backend-heavy full stack.
 
-Currently **Technical Lead** at **Benthon Labs** -- leading 6+ engineers, building enterprise SaaS and AI products.
+Currently **Technical Lead** at **Benthon Labs** -- leading team of engineers, building enterprise SaaS and AI products.
 
 Previously shipped platforms across **e-commerce**, **fintech**, **travel**, and **blockchain**.
 
