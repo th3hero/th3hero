@@ -112,12 +112,18 @@ Also collaborated on **[Shibarium](https://shib.io/)** (L2 blockchain) and **[Pr
 <div align="center">
 
 [![express-storage](https://img.shields.io/npm/dw/express-storage?style=flat-square&label=express-storage&logo=npm&color=000&labelColor=000)](https://www.npmjs.com/package/express-storage)
+[![countries-region](https://img.shields.io/npm/dw/countries-region?style=flat-square&label=countries-region&logo=npm&color=000&labelColor=000)](https://www.npmjs.com/package/countries-region)
+[![request-validator](https://img.shields.io/npm/dw/@th3hero/request-validator?style=flat-square&label=request-validator&logo=npm&color=000&labelColor=000)](https://www.npmjs.com/package/@th3hero/request-validator)
+[![input-validator](https://img.shields.io/npm/dw/@th3hero/input-validator?style=flat-square&label=input-validator&logo=npm&color=000&labelColor=000)](https://www.npmjs.com/package/@th3hero/input-validator)
 
 </div>
 
-**[express-storage](https://www.npmjs.com/package/express-storage)** -- Multi-cloud file storage for Node.js. Unified API for AWS S3, GCS, and Oracle Cloud. Factory pattern, presigned URLs. **2,000+ weekly downloads.**
-
-Also maintain packages for validation, encryption, and developer utilities on **[npmjs.com/~th3hero](https://www.npmjs.com/~th3hero)**.
+| Package | What it does |
+|---------|-------------|
+| **[express-storage](https://www.npmjs.com/package/express-storage)** | Multi-cloud file upload middleware for Express.js -- AWS S3, GCS, Azure Blob, local disk. Presigned URLs, streaming uploads, zero-config provider switching. |
+| **[countries-region](https://www.npmjs.com/package/countries-region)** | Comprehensive countries, regions, and airports dataset with TypeScript. ISO codes, flags, currencies, coordinates. |
+| **[@th3hero/request-validator](https://www.npmjs.com/package/@th3hero/request-validator)** | Backend request validation for Node.js/Express/Next.js. 20+ rules, DB integration (unique/exists), file upload validation, zero external deps. |
+| **[@th3hero/input-validator](https://www.npmjs.com/package/@th3hero/input-validator)** | Frontend validation for React.js/Next.js. Rule-based syntax with useState error management, custom messages, TypeScript-first. |
 
 ---
 
