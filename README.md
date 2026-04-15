@@ -142,8 +142,6 @@ Oct 2019  Software Developer          @ Global Design India, Delhi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3hero&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true)](https://github.com/th3hero)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=th3hero&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=484f58)](https://github.com/th3hero)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=th3hero&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF)](https://github.com/th3hero)
